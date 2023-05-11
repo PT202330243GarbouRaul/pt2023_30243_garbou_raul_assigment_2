@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="400.0" prefWidth="600.0"
+            xmlns="http://javafx.com/javafx/11.0.14-internal" fx:controller="DesignUI">
+    <children>
+        <TextField fx:id="Clients" layoutX="36.0" layoutY="51.0"/>
+        <Text layoutX="36.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clients"/>
+        <Text layoutX="34.0" layoutY="89.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Queues"/>
+        <Text layoutX="34.0" layoutY="130.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Simulation interval"/>
+        <Text layoutX="35.0" layoutY="303.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Maximum service time"/>
+        <Text layoutX="34.0" layoutY="261.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Minimum service time"/>
+        <Text layoutX="40.0" layoutY="171.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Minimum arrival time"/>
+        <Text layoutX="39.0" layoutY="213.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Maximum arrival time"/>
+        <TextField fx:id="Queues" layoutX="36.0" layoutY="92.0"/>
+        <TextField fx:id="MaximumArrivalTime" layoutX="36.0" layoutY="218.0"/>
+        <TextField fx:id="MinimumArrivalTime" layoutX="36.0" layoutY="175.0"/>
+        <TextField fx:id="MinimumServiceTime" layoutX="36.0" layoutY="265.0"/>
+        <TextField fx:id="MaximumServiceTime" layoutX="36.0" layoutY="308.0"/>
+        <TextField fx:id="SimulationInterval" layoutX="36.0" layoutY="133.0"/>
+        <TextArea fx:id="Output" editable="false" layoutX="200.0" layoutY="46.0" prefHeight="339.0" prefWidth="381.0"
+                  promptText="Output Area"/>
+        <Button fx:id="citireinput" layoutX="124.0" layoutY="350.0" mnemonicParsing="false" onAction="#citireInput"
+                text="Proceed"/>
+    </children>
+</AnchorPane>

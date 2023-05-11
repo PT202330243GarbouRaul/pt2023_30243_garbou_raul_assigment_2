@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8896aadb-40ca-4e05-ac17-13d401b266d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rez200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rez4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rez50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt2022_30243_garbou_raul_assigment_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/in-test-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/in-test-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/out-test-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/out-test-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/Diagram.ucls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/QueuesSimulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/Scheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/SimulationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/Start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pt2022-30243_garbou_raul_assignment2-master/pt2022-30243_garbou_raul_assignment2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pt2022-30243_garbou_raul_assignment2-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pt2022-30243_garbou_raul_assignment2-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Diagram.ucls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueuesSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimulationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pt2022-30243_garbou_raul_assignment2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="26yH1Zj8CQjEvhoYxj1uEPfJOJD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "A:/TP2023/FunctioningRepos/Asg2/pt2022_30243_garbou_raul_assigment_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40114942",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2\src\java" />
+      <recent name="A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2\src\main\java" />
+      <recent name="A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2\src\main\resources" />
+      <recent name="A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2\src\main" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI Run" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="pt2022_30243_garbou_raul_assigment_2" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;A:\TP2023\SDKSTUPID\javafx-sdk-20\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="pt2022_30243_garbou_raul_assigment_2" />
+      <option name="PROGRAM_PARAMETERS" value="A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2\files\in-test-1.txt A:\TP2023\FunctioningRepos\Asg2\pt2022_30243_garbou_raul_assigment_2\files\out-test-1.txt" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;A:\TP2023\SDKSTUPID\javafx-sdk-20\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI Run" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8896aadb-40ca-4e05-ac17-13d401b266d6" name="Default Changelist" comment="" />
+      <created>1648388691595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648388691595</updated>
+      <workItem from="1648388692648" duration="644000" />
+      <workItem from="1648389551165" duration="15020000" />
+      <workItem from="1648462701198" duration="143000" />
+      <workItem from="1648463051885" duration="363000" />
+      <workItem from="1648463515684" duration="72000" />
+      <workItem from="1648463618885" duration="1309000" />
+      <workItem from="1648464966228" duration="13163000" />
+      <workItem from="1649005604581" duration="99000" />
+      <workItem from="1649068088575" duration="5687000" />
+      <workItem from="1678832525978" duration="47000" />
+      <workItem from="1681107716603" duration="958000" />
+      <workItem from="1681938856948" duration="229000" />
+      <workItem from="1681939195676" duration="1681000" />
+      <workItem from="1682284983149" duration="1032000" />
+      <workItem from="1682286037539" duration="1871000" />
+      <workItem from="1682289513543" duration="3418000" />
+      <workItem from="1682293859781" duration="104000" />
+      <workItem from="1683575445099" duration="2074000" />
+      <workItem from="1683577593246" duration="58000" />
+      <workItem from="1683577908621" duration="4058000" />
+      <workItem from="1683655217654" duration="3647000" />
+      <workItem from="1683661858291" duration="875000" />
+      <workItem from="1683662745618" duration="696000" />
+      <workItem from="1683663453503" duration="2313000" />
+      <workItem from="1683722179674" duration="2991000" />
+      <workItem from="1683725708648" duration="279000" />
+      <workItem from="1683726000171" duration="506000" />
+      <workItem from="1683741833661" duration="11312000" />
+      <workItem from="1683804306449" duration="335000" />
+      <workItem from="1683808246216" duration="2990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

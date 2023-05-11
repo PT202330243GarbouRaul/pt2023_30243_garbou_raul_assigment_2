@@ -1,0 +1,369 @@
+
+
+Time 0
+Waiting clients: (1,2,3); (6,2,3); (4,3,2); (5,3,2); (0,3,2); (3,4,2); (2,8,2); (7,9,2); 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 1
+Waiting clients: (1,2,3); (6,2,3); (4,3,2); (5,3,2); (0,3,2); (3,4,2); (2,8,2); (7,9,2); 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 2
+Waiting clients: (4,3,2); (5,3,2); (0,3,2); (3,4,2); (2,8,2); (7,9,2); 
+Queue q0:[(1,2,3);]
+Queue q1:[(6,2,3);]
+
+
+Time 3
+Waiting clients: (3,4,2); (2,8,2); (7,9,2); 
+Queue q0:[(1,2,3);, (4,3,2);, (0,3,2);]
+Queue q1:[(6,2,3);, (5,3,2);]
+
+
+Time 4
+Waiting clients: (2,8,2); (7,9,2); 
+Queue q0:[(1,2,3);, (4,3,2);, (0,3,2);]
+Queue q1:[(6,2,3);, (5,3,2);, (3,4,2);]
+
+
+Time 5
+Waiting clients: (2,8,2); (7,9,2); 
+Queue q0:[(4,3,2);, (0,3,2);]
+Queue q1:[(5,3,2);, (3,4,2);]
+
+
+Time 6
+Waiting clients: (2,8,2); (7,9,2); 
+Queue q0:[(4,3,2);, (0,3,2);]
+Queue q1:[(5,3,2);, (3,4,2);]
+
+
+Time 7
+Waiting clients: (2,8,2); (7,9,2); 
+Queue q0:[(4,3,2);, (0,3,2);]
+Queue q1:[(5,3,2);, (3,4,2);]
+
+
+Time 8
+Waiting clients: (7,9,2); 
+Queue q0:[(0,3,2);, (2,8,2);]
+Queue q1:[(3,4,2);]
+
+
+Time 9
+Waiting clients: 
+Queue q0:[(0,3,2);, (2,8,2);]
+Queue q1:[(3,4,2);, (7,9,2);]
+
+
+Time 10
+Waiting clients: 
+Queue q0:[(0,3,2);, (2,8,2);]
+Queue q1:[(3,4,2);, (7,9,2);]
+
+
+Time 11
+Waiting clients: 
+Queue q0:[(2,8,2);]
+Queue q1:[(7,9,2);]
+
+
+Time 12
+Waiting clients: 
+Queue q0:[(2,8,2);]
+Queue q1:[(7,9,2);]
+
+
+Time 13
+Waiting clients: 
+Queue q0:[(2,8,2);]
+Queue q1:[(7,9,2);]
+
+
+Time 14
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 15
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 16
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 17
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 18
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 19
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 20
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 21
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 22
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 23
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 24
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 25
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 26
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 27
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 28
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 29
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 30
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 31
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 32
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 33
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 34
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 35
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 36
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 37
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 38
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 39
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 40
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 41
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 42
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 43
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 44
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 45
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 46
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 47
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 48
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 49
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 50
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 51
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 52
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 53
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 54
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 55
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 56
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 57
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 58
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 59
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+
+Time 60
+Waiting clients: 
+Queue q0: Closed
+Queue q1: Closed
+
+Average service time:2.25
+Average waiting time:2.25
